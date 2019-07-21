@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/libjpeg-turbo%3Abincrafters/images/download.svg)](https://bintray.com/bincrafters/public-conan/libjpeg-turbo%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-libjpeg-turbo?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-libjpeg-turbo)|[![Build Status](https://travis-ci.org/bincrafters/conan-libjpeg-turbo.svg)](https://travis-ci.org/bincrafters/conan-libjpeg-turbo)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/libjpeg-turbo%3Abincrafters/images/download.svg)](https://bintray.com/bincrafters/public-conan/libjpeg-turbo%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-libjpeg-turbo?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-libjpeg-turbo)|[![Build Status](https://travis-ci.com/bincrafters/conan-libjpeg-turbo.svg)](https://travis-ci.com/bincrafters/conan-libjpeg-turbo)|
 
 ## Conan.io Information
 
